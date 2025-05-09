@@ -10,7 +10,7 @@
 
 **Тесты:** Прикреплю скрины с тестами о которых описал выше, подробней можно изучить оп пути `test/test_main.py`
 
-![image.png](attachment:00171ac5-b3c0-4a28-a72d-9fceef862405:image.png)
+![image.png](https://github.com/user-attachments/assets/9a77af9c-0b2d-4a57-9859-5c4e885712f4)
 
 </aside>
 
@@ -18,9 +18,9 @@
 
 **Отработка:**  Тут прикреплю скрины с отработкой одного и трех файлов, показать что все вполне работает..
 
-![image.png](attachment:c05f4106-65fa-401e-97f2-5a0ef46d038d:image.png)
+![image.png](https://github.com/user-attachments/assets/d2dbcf89-c457-4a07-b199-007005f968bb)
 
-![image.png](attachment:f0b615ed-965c-44fd-a696-431336e9d81b:image.png)
+![image.png](https://github.com/user-attachments/assets/1c01bffa-9577-46b5-830a-6624bb5ce2c4)
 
 </aside>
 
